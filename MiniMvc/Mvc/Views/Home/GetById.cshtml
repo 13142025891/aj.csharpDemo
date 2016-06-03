@@ -1,0 +1,23 @@
+﻿
+@using Mvc.Models;
+@model Employee
+@{
+    ViewBag.Title = "GetById";
+}
+
+<dl>
+    <dd>@Html.LabelFor(model=>model.Id)</dd>
+    <dt>@Html.DisplayFor(model => model.Id)</dt>
+
+    <dd>@Html.LabelFor(model => model.Name)</dd>
+    <dt>@Html.DisplayFor(model => model.Name)</dt>
+
+
+    <dd>@Html.LabelFor(model => model.Gender)</dd>
+    <dt>@Html.DisplayFor(model => model.Gender)</dt>
+
+
+    <dd>@Html.LabelFor(model => model.Deparment)</dd>
+    <dt>@Html.DisplayFor(model => model.Deparment)</dt>
+</dl>
+

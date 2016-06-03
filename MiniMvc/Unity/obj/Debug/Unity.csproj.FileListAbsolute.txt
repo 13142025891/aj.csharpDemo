@@ -1,0 +1,15 @@
+C:\Users\aijuan\Desktop\MiniMvc\Unity\bin\Debug\Unity.exe.config
+C:\Users\aijuan\Desktop\MiniMvc\Unity\bin\Debug\Unity.exe
+C:\Users\aijuan\Desktop\MiniMvc\Unity\bin\Debug\Unity.pdb
+C:\Users\aijuan\Desktop\MiniMvc\Unity\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\aijuan\Desktop\MiniMvc\Unity\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\aijuan\Desktop\MiniMvc\Unity\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\aijuan\Desktop\MiniMvc\Unity\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\aijuan\Desktop\MiniMvc\Unity\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\aijuan\Desktop\MiniMvc\Unity\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\aijuan\Desktop\MiniMvc\Unity\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\aijuan\Desktop\MiniMvc\Unity\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\aijuan\Desktop\MiniMvc\Unity\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\aijuan\Desktop\MiniMvc\Unity\obj\Debug\Unity.csprojResolveAssemblyReference.cache
+C:\Users\aijuan\Desktop\MiniMvc\Unity\obj\Debug\Unity.exe
+C:\Users\aijuan\Desktop\MiniMvc\Unity\obj\Debug\Unity.pdb
